@@ -1,0 +1,19 @@
+{
+  "extracted_source": "artifacts/constants_extracted.json",
+  "framework": "beilinson_conjectures",
+  "generated_utc": "2026-03-11T23:36:02Z",
+  "promoted_constants": {
+    "eps_coh": 0.0,
+    "kappa_compact": 0.8045052292839904,
+    "kappa_regulator": 1.0932,
+    "rho_rigidity": 1.078,
+    "sigma_special": 1.0750000000000002,
+    "value_transfer": 1.0305400000000002
+  },
+  "promoted_stitch": {
+    "sigma_star_can": 1.054
+  },
+  "registry_path": "artifacts/constants_registry.json",
+  "schema_version": "2026-03-05",
+  "stitch_path": "artifacts/stitch_constants.json"
+}

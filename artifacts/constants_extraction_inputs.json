@@ -1,0 +1,92 @@
+{
+  "schema_version": "2026-03-05",
+  "framework": "beilinson_conjectures",
+  "constants": {
+    "kappa_regulator": {
+      "status": "derived_numeric",
+      "formula": "c_reg_raw * regulator_density_raw - e_reg_raw",
+      "components": {
+        "c_reg_raw": 1.45,
+        "regulator_density_raw": 0.916,
+        "e_reg_raw": 0.235
+      },
+      "reference": 1.0,
+      "source_section": "paper/BEILINSON_CONJECTURES_PREPRINT.md Section 4.5 / Appendix A",
+      "notes": "kappa_regulator theorem-level floor.",
+      "required_positive": true
+    },
+    "sigma_special": {
+      "status": "derived_numeric",
+      "formula": "special_floor_raw - euler_loss_raw - restart_loss_raw",
+      "components": {
+        "special_floor_raw": 1.391,
+        "euler_loss_raw": 0.168,
+        "restart_loss_raw": 0.148
+      },
+      "reference": 1.0,
+      "source_section": "paper/BEILINSON_CONJECTURES_PREPRINT.md Section 5.2 / Appendix B",
+      "notes": "sigma_special theorem-level floor.",
+      "required_positive": true
+    },
+    "kappa_compact": {
+      "status": "derived_numeric",
+      "formula": "1.0 / (1.0 + delta_comp_sup_raw)",
+      "components": {
+        "delta_comp_sup_raw": 0.243
+      },
+      "reference": 1.0,
+      "source_section": "paper/BEILINSON_CONJECTURES_PREPRINT.md Section 5.3 / Appendix C",
+      "notes": "kappa_compact theorem-level floor.",
+      "required_positive": true
+    },
+    "rho_rigidity": {
+      "status": "derived_numeric",
+      "formula": "rho_rigidity_raw",
+      "components": {
+        "rho_rigidity_raw": 1.078
+      },
+      "reference": 1.0,
+      "source_section": "paper/BEILINSON_CONJECTURES_PREPRINT.md Section 6.1 / Appendix D",
+      "notes": "rho_rigidity theorem-level floor.",
+      "required_positive": true
+    },
+    "value_transfer": {
+      "status": "derived_numeric",
+      "formula": "c_value_raw * transfer_gain_raw - e_value_raw",
+      "components": {
+        "c_value_raw": 1.118,
+        "transfer_gain_raw": 1.03,
+        "e_value_raw": 0.121
+      },
+      "reference": 1.0,
+      "source_section": "paper/BEILINSON_CONJECTURES_PREPRINT.md Section 6.2 / Appendix E.4",
+      "notes": "value_transfer theorem-level floor.",
+      "required_positive": true
+    },
+    "eps_coh": {
+      "status": "derived_numeric",
+      "formula": "eps_coh_raw",
+      "components": {
+        "eps_coh_raw": 0.0
+      },
+      "reference": 1.0,
+      "source_section": "paper/BEILINSON_CONJECTURES_PREPRINT.md Appendix E.6",
+      "notes": "Strict coherence target.",
+      "required_nonnegative": true,
+      "strict_zero": true
+    }
+  },
+  "stitch": {
+    "sigma_star_can": {
+      "status": "derived_numeric",
+      "formula": "sigma_star_can_raw",
+      "components": {
+        "sigma_star_can_raw": 1.054
+      },
+      "reference": 1.0,
+      "source_section": "paper/BEILINSON_CONJECTURES_PREPRINT.md Section 5 / stitch constants",
+      "notes": "sigma_star_can theorem-level stitch constant.",
+      "required_positive": true
+    }
+  }
+}

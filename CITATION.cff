@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "The Beilinson Conjectures via Regulator-L-Value Persistence"
+message: "If you use this workspace, cite the manuscript and theorem notes."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-11
+repository-code: "https://github.com/HautevilleHouse/beilinson-conjectures-canonical-lane"
+url: "https://github.com/HautevilleHouse/beilinson-conjectures-canonical-lane"
+keywords:
+  - beilinson-conjectures
+  - motives
+  - regulators
+  - arithmetic-geometry
+  - l-functions
+  - mathematical-proof
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "The Beilinson Conjectures via Regulator-L-Value Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-11
