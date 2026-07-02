@@ -1,6 +1,6 @@
 # EG2 Public Note (Capture and Restart)
 
-Mature wording: `transport / local-to-global transfer`.
+Canonical wording: `transport / local-to-global transfer`.
 
 In-paper anchor: `paper/BEILINSON_CONJECTURES_PREPRINT.md` (`BEI_G2`).
 
@@ -38,5 +38,5 @@ If transport accounting and restart preservation hold, then `BEI_G2` carries loc
 
 - gate: `BEI_G2`
 - artifact key: `sigma_special`
-- mature equivalent: `transport / local-to-global transfer`
+- canonical equivalent: `transport / local-to-global transfer`
 - audit surface: `repro/run_repro.sh` and `repro/certificate_runtime.json`
