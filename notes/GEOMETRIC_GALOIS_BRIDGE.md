@@ -29,7 +29,7 @@ Payload: check the preprint's admissible-class and explicit-remainder language.
 ### Lemma GG.2 (remainder discipline)
 Any stronger external consequence must route through the named remainder rather than bypassing it.
 
-Payload: verify that `eps_coh` and the defect/coherence ledgers remain visible in the runtime artifacts.
+Payload: check that `eps_coh` and the defect/coherence ledgers remain visible in the runtime artifacts.
 
 ### Theorem GG.3 (geometric/arithmetic bridge)
 If projection, remainder discipline, and endpoint transfer are all explicit, then the geometric/Galois bridge is a lawful translation layer rather than ornamental terminology.

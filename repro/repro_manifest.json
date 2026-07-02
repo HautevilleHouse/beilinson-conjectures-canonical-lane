@@ -31,23 +31,23 @@
     },
     {
       "path": "notes/EG1_public.md",
-      "sha256": "b01a95838f5fd8791dc5ab8ca4c6565a522f5380d922c6ab2353f16a5994d408"
+      "sha256": "2bdad624cb8d227c835e4f3fc169c7878146c363da1e85b653fd9a53f0fae3b4"
     },
     {
       "path": "notes/EG2_public.md",
-      "sha256": "1b1988c11ec4bbd23b82448cbf4f71105ee846ae5ded130ff64821002ebcf15e"
+      "sha256": "757fdfec02773e508b543c670e53e05e1bc034387b6a33ee71dbcc247710382f"
     },
     {
       "path": "notes/EG3_public.md",
-      "sha256": "672b9328dc6a18378bc46101c97662979f661ff80987c1681a2a31f9c8eb90dc"
+      "sha256": "c8c0a6ce1d1ff407494ab727885cf0cea2e57497b9fa26aa2bcd4eb141d270e8"
     },
     {
       "path": "notes/EG4_public.md",
-      "sha256": "8ff5b4ba52fec8639c9872e52779ddc226125cb107115d6dbbd00443cbcbb31f"
+      "sha256": "8453d0182a939bff0f7d80700dff567add16ceec8cc1fbebbff477433bfb3b7c"
     },
     {
       "path": "notes/IDENTIFICATION_BRIDGE.md",
-      "sha256": "1d5d30dbc2e207c3b179149949cdd34cca01f5feced34965112a5e264209276b"
+      "sha256": "b0a674ea3aa22ea3494df501f5cfe9fa87990ef1d2e7c3e9a120b9f16c480a53"
     },
     {
       "path": "paper/CANONICAL_ROUTING_INDEX.md",
@@ -59,7 +59,7 @@
     },
     {
       "path": "paper/BEILINSON_CONJECTURES_PREPRINT.md",
-      "sha256": "9cdf620577d5709883faa21263ec9eeb1e056de10e0940dcbbc5367566b25a51"
+      "sha256": "0c8e03b5f146f9188da47ee47d2536903945205c53a3860f2dbebdaf22217cfc"
     },
     {
       "path": "repro/REPRO_PACK.md",
@@ -75,7 +75,7 @@
     },
     {
       "path": "repro/run_repro.sh",
-      "sha256": "ecabf26fb99a354d249097ac16cdaf42703f022b2259f2153ece1475c3e75ec8"
+      "sha256": "545a5eeaee645a15a8ded4d8967255ede6154da74d07e7fc3b020859d2e2a2a8"
     },
     {
       "path": "scripts/extract_constants.py",
@@ -102,7 +102,7 @@
       "sha256": "528e6c97457c31e12d688839bfafe92a9334e844fee478f63ffdfab038e172fb"
     }
   ],
-  "generated_utc": "2026-05-10T05:17:59Z",
+  "generated_utc": "2026-07-02T16:12:45Z",
   "lane": "manifold_constrained",
   "runtime_certificate_path": "repro/certificate_runtime.json",
   "schema_version": "2026-03-05"
